@@ -1,2 +1,3 @@
-string1=input()
-print(string1[::-1])
+import math
+fac=int(input())
+print(math.factorial(fac))
