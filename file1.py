@@ -1,3 +1,2 @@
-import math
-fac=int(input())
-print(math.factorial(fac))
+inpt=input()
+print(inpt[::-1])
